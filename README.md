@@ -1,3 +1,3 @@
 # arktos
 
-Moved to [https://github.com/centaurus-cloud/arktos](https://github.com/centaurus-cloud/arktos)
+Moved to [https://github.com/centaurusInfra/arktos](https://github.com/CentaurusInfra/arktos)
